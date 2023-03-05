@@ -11,14 +11,14 @@ console.log(arr);
 // }
 
 
-// // push, unshft
-// // we can add multiple data type values in array
-// arr.push("last value");
-// arr.unshift("first value");
-// console.log(arr);
-// arr.shift();
-// arr.pop();
-// console.log(arr);
+// push, unshft
+// we can add multiple data type values in array
+arr.push("last value");
+arr.unshift("first value");
+console.log(arr);
+arr.shift();
+arr.pop();
+console.log(arr);
 
 //slice - start idx, end idx
 let partOfArr = arr.slice(2, 4);

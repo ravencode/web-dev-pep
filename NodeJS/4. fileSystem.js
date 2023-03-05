@@ -54,8 +54,8 @@ let fs = require("fs");
 
 
 //creating many folders
-for(let i = 1; i <= 10; i++){
-    let dirPathToMake = `Lecture-${i}`;
+for(let i = 1; i <= 2; i++){
+    let dirPathToMake = `Lecture-${i}`; // $ is used to write JS code inside a string
     fs.mkdirSync(dirPathToMake);
     fs.writeFileSync(dirPathToMake + "\\" + "readme.md", `# Hello World for ${dirPathToMake}`);
 }
