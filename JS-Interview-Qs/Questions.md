@@ -12,10 +12,10 @@ Features are provided by enviroment only
 
 
 3. 
-#Execution context:
+# Execution context:
 
 ![alt text](https://raw.githubusercontent.com/ravencode/web-dev-pep/master/JS-Interview-Qs/img/exc-context.png)
 
 
-#Global Execution Context
+# Global Execution Context
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/global-exc-context.png)
