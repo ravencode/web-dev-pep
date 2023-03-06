@@ -9,3 +9,8 @@
 Answers
 1. JS runs in an enviroment provided by either browser(like chrome v8) or nodejs or for desktop(electronjs).
 Features are provided by enviroment only 
+
+
+3. Execution context
+![Alt text](..\img\exc-context.png?raw=true "Title")
+
