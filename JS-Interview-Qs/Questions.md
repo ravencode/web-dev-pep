@@ -19,3 +19,6 @@ Features are provided by enviroment only
 
 # Global Execution Context
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/global-exc-context.png)
+
+# Creation
+![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/creation.png)
