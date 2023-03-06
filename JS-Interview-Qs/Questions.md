@@ -12,5 +12,5 @@ Features are provided by enviroment only
 
 
 3. Execution context
-![Alt text](..\img\exc-context.png?raw=true "Title")
 
+exc-context.png
