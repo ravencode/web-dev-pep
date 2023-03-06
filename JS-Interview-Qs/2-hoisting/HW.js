@@ -8,7 +8,8 @@ function fn() {
     console.log("Hello from fn");
 }
 fn();
-fnContainer();
+fnContainer(); //why error?
+// answer: error because fnContainer is not defined
 var fnContainer = function () {
     console.log(" I am an Expression");
 }
