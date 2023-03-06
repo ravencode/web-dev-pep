@@ -17,8 +17,11 @@ Features are provided by enviroment only
 ![alt text](https://raw.githubusercontent.com/ravencode/web-dev-pep/master/JS-Interview-Qs/img/exc-context.png)
 
 
-# Global Execution Context
+# Global Execution Context:
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/global-exc-context.png)
 
-# Creation
+# Creation:
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/creation.png)
+
+# Hoisting 
+![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/hoisting-ex.png)
