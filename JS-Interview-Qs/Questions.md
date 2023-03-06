@@ -23,5 +23,9 @@ Features are provided by enviroment only
 # Creation:
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/creation.png)
 
-# Hoisting 
+# Hoisting:
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/hoisting-ex.png)
+
+
+# Lexical Scope:
+![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/lexical-scope.png)
