@@ -19,6 +19,12 @@ fn();
 //and if not found then it will look for the variable in the parent scope
 //and so on till it finds the variable or reaches the global scope
 
+
+// JavaScript uses lexical scoping to resolve the variable names when a function 
+// is created inside another function. It determines the function's parent scope by 
+// looking at where the function was created instead of where it was invoked.
+
+
 //scope chain is the order in which the scope is searched for the variable
 
 //scope chain is created at the time of creation of execution context
