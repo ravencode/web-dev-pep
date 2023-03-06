@@ -13,4 +13,4 @@ Features are provided by enviroment only
 
 3. Execution context
 
-exc-context.png
+[exc-context.png](https://raw.githubusercontent.com/ravencode/web-dev-pep/master/JS-Interview-Qs/img/exc-context.png)
