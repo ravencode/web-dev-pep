@@ -26,3 +26,5 @@ let num = 10;
 for(let i = 1; i <= num; i++){
     console.log('Number is', i);
 }
+
+//JavaScript is a interpreted language which means code is executed line by line
