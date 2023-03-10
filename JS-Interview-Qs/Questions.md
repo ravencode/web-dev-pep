@@ -29,3 +29,6 @@ Features are provided by enviroment only
 
 # Lexical Scope:
 ![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/lexical-scope.png)
+
+# var let const table
+![alt text](https://github.com/ravencode/web-dev-pep/blob/master/JS-Interview-Qs/img/var-let-const.png)
