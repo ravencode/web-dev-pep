@@ -30,4 +30,4 @@ Function.prototype.myBind = function(...args){
 
 
 let newShowDetails2 = showDetails.myBind(person1, 'Noida', 'UP');
-newShowDetails2();
+newShowDetails2(); //Rahul 25 Noida UP
